@@ -24,3 +24,4 @@ yarn-error.log*
 
 .vs-code
 /src/assets/main.css
+.env
