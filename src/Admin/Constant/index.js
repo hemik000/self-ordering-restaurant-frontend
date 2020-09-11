@@ -1,4 +1,4 @@
-export const API = `${process.env.API}/admin`;
+export const API = "https://hotelms.herokuapp.com/api/admin";
 
 export const homeData = `${API}/home/`;
 export const allOrders = `${API}/all-orders/`;
