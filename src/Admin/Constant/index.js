@@ -1,4 +1,4 @@
-export const API = "http://192.168.0.100:8000/api/admin";
+export const API = `${process.env.API}/admin`;
 
 export const homeData = `${API}/home/`;
 export const allOrders = `${API}/all-orders/`;

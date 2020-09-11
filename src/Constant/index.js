@@ -1,4 +1,5 @@
-export const API = "http://192.168.0.100:8000/api";
+// export const API = "http://192.168.0.100:8000/api";
+export const API = process.env.API;
 
 export const createCutomer = `${API}/customer/create/`;
 export const joinTableSession = `${API}/customer`;
