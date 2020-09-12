@@ -25,8 +25,8 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
-![Menu Page](/screenshots/menu.png "Menu Page")
+![Menu Page](/screenshots/menu.png?raw=true "Menu Page")
 
-![My Orders](/screenshots/my_orders.png "My Orders")
+![My Orders](/screenshots/my_orders.png?raw=true "My Orders")
 
-![Order Detail](/screenshots/order_detail.png "Order Detail")
+![Order Detail](/screenshots/order_detail.png?raw=true "Order Detail")
