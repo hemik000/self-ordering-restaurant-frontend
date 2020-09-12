@@ -22,3 +22,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Screenshots
+
+![Menu Page](/screenshots/menu.png "Menu Page")
+
+![My Orders](/screenshots/my_orders.png "My Orders")
+
+![Order Detail](/screenshots/order_detail.png "Order Detail")
