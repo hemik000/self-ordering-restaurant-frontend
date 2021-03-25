@@ -1,5 +1,5 @@
 // export const API = "http://192.168.0.100:8000/api";
-export const API = "https://hotelms.herokuapp.com/api";
+export const API = "https://hotelms1.herokuapp.com/api";
 
 export const createCutomer = `${API}/customer/create/`;
 export const joinTableSession = `${API}/customer`;
